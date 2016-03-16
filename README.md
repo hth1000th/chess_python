@@ -4,7 +4,7 @@ written in Python for final project in CPTR 125
 images sources (chess pieces): https://openclipart.org
 
 ### How to run the code
-Download Kivy for UI frameworks for this project.
+Download Kivy for UI frameworks for this project.<br>
 Run *game.py* in python.
 
 ### What aspects of the game do
